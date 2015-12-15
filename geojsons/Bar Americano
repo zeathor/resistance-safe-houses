@@ -1,0 +1,25 @@
+  {
+    
+      "type": "FeatureCollection",
+      "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "Name": "Bar Americano",
+          "Address": "20 Presgrave Place, Melbourne VIC 3000",
+          "Review": "Quite literally a hole in the wall, seats no-one, standing room for up to 5 people",
+          "Contributor": "Toffa"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            144.96564030647278,
+            -37.81486533233668
+          ]
+      }
+    }
+  ]
+}
